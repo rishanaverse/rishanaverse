@@ -3,7 +3,7 @@
 <p align="center">🎯 Turning data into insights, and insights into decisions.
 </p>
 
-I am a **Data Analyst student** passionate about transforming raw data into meaningful stories through **visualization and business intelligence**. I enjoy exploring datasets, building dashboards, and uncovering trends that support better decision-making.
+I am an aspiring Data Analyst who enjoys turning raw data into clear insights through visualization and business intelligence.
 
 ---
 
