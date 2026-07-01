@@ -1,51 +1,59 @@
-# Hi there 👋, I'm fathima rishana 
+<h1 align="center">👋 Hi, I'm Fathima Rishana</h1>
 
-## 🚀 About Me
+<p align="center">🎯 Turning data into insights, and insights into decisions.
+</p>
 
-I'm an aspiring **Data Analyst** with a passion for transforming raw data into meaningful insights. I enjoy working with data, solving problems, and building dashboards that help make better decisions.
-
-I'm currently learning and improving my skills in **Python**, **SQL**, **Excel**, and **Power BI** through hands-on projects.
-
----
-
-## 💻 Tech Stack
-
-- 🐍 Python
-- 🗄️ SQL
-- 📊 Microsoft Excel
-- 📈 Power BI
-- 📉 Pandas
-- 🔢 NumPy
-- 📊 Matplotlib
-- 📈 Seaborn
-- 🌿 Git & GitHub
+I am a **Data Analyst student** passionate about transforming raw data into meaningful stories through **visualization and business intelligence**. I enjoy exploring datasets, building dashboards, and uncovering trends that support better decision-making.
 
 ---
 
-## 🌱 Currently Learning
+## 👩‍💻 About Me
 
-- Advanced SQL
-- Data Cleaning & Transformation
-- Power BI Dashboard Development
-- Exploratory Data Analysis (EDA)
-- Statistics for Data Analytics
-- Machine Learning Fundamentals
-
----
-
-## 📂 Featured Projects
-
-### 📊 Sales Data Analysis
-Analyzed sales data to identify trends and improve business insights.
-
-### 📉 Excel Dashboard
-Created an interactive dashboard using Pivot Tables, Charts, and Slicers.
-
-> More projects coming soon!
+* 📊 Aspiring **Data Analyst**
+* 📚 Currently learning **Data Visualization & Business Intelligence**
+* 🔍 Interested in **data analysis, dashboards, and storytelling with data**
+* 🤖 Exploring **Machine Learning & Predictive Analytics**
+* 💡 Passionate about solving real-world problems using data
 
 ---
 
+## 🛠️ Skills & Tools
 
+### 📊 Data Visualization & BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=Power%20BI\&logoColor=black)
+
+### 💻 Programming & Data Handling
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
+
+### 🤖 Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+
+---
+
+## 📈 Data Analytics Journey
+
+* 🚀 Started with **Python basics and data handling**
+* 📊 Learned **Power BI** for dashboard creation and reporting
+* 🧹 Practiced **data cleaning using Power Query**
+* 🗄️ Developed skills in **SQL for querying and data extraction**
+* 📉 Exploring **data analysis projects and real datasets**
+* 🤖 Beginning journey into **Machine Learning models**
+
+---
+
+## 🎯 Learning Goals
+
+* 📌 Build **end-to-end data analytics projects**
+* 📊 Create **interactive and insightful dashboards**
+* 📈 Improve **data storytelling and presentation skills**
+* 🤖 Gain deeper knowledge in **Machine Learning & AI**
+* 🌍 Work on **real-world datasets and case studies**
+
+---
 
 
 ## 📫 Connect With Me
